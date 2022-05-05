@@ -1,4 +1,4 @@
-//ĞÙÑÀÀûËã·¨
+//åŒˆç‰™åˆ©ç®—æ³•
 bool find(int x)
 {
     for (int i = h[x]; i; i = ne[i]){
