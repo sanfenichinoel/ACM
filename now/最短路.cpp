@@ -53,7 +53,7 @@ void bf(int st)
     }
 }
 
-//spfa (ÅÐ¸º»·)
+//spfa (åˆ¤è´ŸçŽ¯)
 bool spfa(int beg)
 {
     queue<int> q;
